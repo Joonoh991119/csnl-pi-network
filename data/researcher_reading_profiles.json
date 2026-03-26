@@ -1,0 +1,647 @@
+{
+  "Minsu Yeo (여민수)": {
+    "total_papers": 199,
+    "date_range": "2024-02-19 ~ 2026-03-09",
+    "recurring_authors": [
+      {
+        "author": "Brody",
+        "count": 16
+      },
+      {
+        "author": "Summerfield",
+        "count": 10
+      },
+      {
+        "author": "Kiani",
+        "count": 10
+      },
+      {
+        "author": "Lee",
+        "count": 10
+      },
+      {
+        "author": "Kim",
+        "count": 9
+      },
+      {
+        "author": "Cox",
+        "count": 8
+      },
+      {
+        "author": "Kepecs",
+        "count": 8
+      },
+      {
+        "author": "Bülthoff",
+        "count": 8
+      },
+      {
+        "author": "Glimcher",
+        "count": 7
+      },
+      {
+        "author": "Lau",
+        "count": 7
+      },
+      {
+        "author": "Wang",
+        "count": 7
+      },
+      {
+        "author": "Dumoulin",
+        "count": 6
+      },
+      {
+        "author": "Burr",
+        "count": 6
+      },
+      {
+        "author": "Donner",
+        "count": 6
+      },
+      {
+        "author": "Yang",
+        "count": 6
+      },
+      {
+        "author": "Jehee",
+        "count": 6
+      },
+      {
+        "author": "Maddox",
+        "count": 6
+      },
+      {
+        "author": "Aila",
+        "count": 6
+      },
+      {
+        "author": "Carandini",
+        "count": 6
+      },
+      {
+        "author": "Harvey",
+        "count": 5
+      },
+      {
+        "author": "Louie",
+        "count": 5
+      },
+      {
+        "author": "Carlo",
+        "count": 5
+      },
+      {
+        "author": "Rust",
+        "count": 5
+      },
+      {
+        "author": "Hanks",
+        "count": 5
+      },
+      {
+        "author": "Machens",
+        "count": 5
+      }
+    ],
+    "research_themes": "Decision making (59), fMRI/neuroimaging (31), Bayesian inference (27), Serial dependence (20), Visual perception (12), Neural networks (12), Numerosity (11), Bias (10)",
+    "writing_style": {
+      "format": "매우 체계적. \"읽은 범위:\" + \"내용 정리:\" 헤더를 거의 매번 사용 (175회). 불릿 포인트 적게 사용 (15회).",
+      "avg_comment_length": "790자",
+      "tone": "\"것 같다\" (119회)와 \"것으로 보인다\" (48회)를 매우 빈번하게 사용 — 신중하고 조심스러운 추론 톤. 직접적 단정보다 추측형 표현 선호.",
+      "key_expressions": [
+        "것 같다 (119)",
+        "것으로 보인다 (48)",
+        "흥미롭다/흥미로운 (25)",
+        "중요한/중요하다 (23)",
+        "기존의/기존 연구 (12)",
+        "고려 (13)"
+      ],
+      "questions": 130,
+      "reading_scope": "\"논문 전체\" 60회, \"Abstract부터\" 51회 — 전체 읽기 비율 높음"
+    },
+    "perspective_analysis": {
+      "reading_approach": "체계적 내용 정리형. Main finding 요약 후 자신의 생각을 덧붙이는 구조. 선행연구와의 연결 활발.",
+      "critical_tendencies": "물음표 130회 — 매우 활발한 의문 제기. 방법론적 한계에 대한 질문 다수.",
+      "connection_making": "Brody, Summerfield, Kiani 그룹 중심으로 decision-making 논문 cross-reference 활발. numerosity → decision → confidence 축 연결."
+    }
+  },
+  "Joonoh Park": {
+    "total_papers": 162,
+    "date_range": "2024-02-19 ~ 2025-11-14",
+    "recurring_authors": [
+      {
+        "author": "Lee",
+        "count": 16
+      },
+      {
+        "author": "Brody",
+        "count": 10
+      },
+      {
+        "author": "Kepecs",
+        "count": 8
+      },
+      {
+        "author": "Wang",
+        "count": 8
+      },
+      {
+        "author": "Altman",
+        "count": 7
+      },
+      {
+        "author": "Park",
+        "count": 6
+      },
+      {
+        "author": "Majima",
+        "count": 6
+      },
+      {
+        "author": "Tenenbaum",
+        "count": 6
+      },
+      {
+        "author": "Ashby",
+        "count": 6
+      },
+      {
+        "author": "Lim",
+        "count": 5
+      },
+      {
+        "author": "Bengio",
+        "count": 5
+      },
+      {
+        "author": "Krzywinski",
+        "count": 4
+      },
+      {
+        "author": "Chen",
+        "count": 4
+      },
+      {
+        "author": "Mishkin",
+        "count": 4
+      },
+      {
+        "author": "Lak",
+        "count": 4
+      },
+      {
+        "author": "Beck",
+        "count": 4
+      },
+      {
+        "author": "Latham",
+        "count": 4
+      },
+      {
+        "author": "Butlin",
+        "count": 4
+      },
+      {
+        "author": "Long",
+        "count": 4
+      },
+      {
+        "author": "Elmoznino",
+        "count": 4
+      },
+      {
+        "author": "Birch",
+        "count": 4
+      },
+      {
+        "author": "Constant",
+        "count": 4
+      },
+      {
+        "author": "Rullen",
+        "count": 4
+      },
+      {
+        "author": "Van",
+        "count": 4
+      },
+      {
+        "author": "Hinton",
+        "count": 4
+      }
+    ],
+    "research_themes": "Decision making (31), Bayesian inference (26), fMRI/neuroimaging (25), Serial dependence (20), Visual perception (13), Neural networks (12), Bias (11), Neural coding (11)",
+    "writing_style": {
+      "format": "불릿 포인트 중심 구조화 (492회). \"내 생각:\" 섹션 별도 분리 (18회). 전 연구원 중 가장 긴 평균 코멘트.",
+      "avg_comment_length": "1134자",
+      "tone": "\"것 같다\" (169회) — 전 연구원 중 최다 사용. \"궁금하다\" (26회)로 적극적 의문 제기. 감탄부호 0회 — 매우 절제된 톤.",
+      "key_expressions": [
+        "것 같다 (169)",
+        "궁금하다/궁금한 (26)",
+        "기존의/기존 연구 (36)",
+        "~해볼 필요 (13)",
+        "설명할 수 (21)",
+        "의문 (9)",
+        "아쉽다 (5)"
+      ],
+      "questions": 139,
+      "reading_scope": "부분 읽기 (Abstract~Figure1) 빈도 높음. \"내 생각\" 섹션에서 자신의 연구와 연결."
+    },
+    "perspective_analysis": {
+      "reading_approach": "비판적 분석형. 방법론과 결론을 기존 연구와 꼼꼼히 대비. \"내 생각:\" 섹션에서 독립적 해석 제시가 특징.",
+      "critical_tendencies": "\"궁금하다\" 26회 + 물음표 139회 — 가장 질문이 많은 연구원. \"아쉽다\" (5), \"의문\" (9) 등 직접적 비판 활발.",
+      "connection_making": "Bayesian inference와 serial dependence 프레임워크 중심. Summerfield, Brody 그룹 deep reading 특징."
+    }
+  },
+  "Boyun Lee (이보연)": {
+    "total_papers": 145,
+    "date_range": "2024-08-19 ~ 2026-03-24",
+    "recurring_authors": [
+      {
+        "author": "Lee",
+        "count": 31
+      },
+      {
+        "author": "Wei",
+        "count": 19
+      },
+      {
+        "author": "Lim",
+        "count": 15
+      },
+      {
+        "author": "Bays",
+        "count": 11
+      },
+      {
+        "author": "Stocker",
+        "count": 11
+      },
+      {
+        "author": "Krakauer",
+        "count": 10
+      },
+      {
+        "author": "Hill",
+        "count": 10
+      },
+      {
+        "author": "Hahn",
+        "count": 8
+      },
+      {
+        "author": "Jehee",
+        "count": 6
+      },
+      {
+        "author": "Wolpert",
+        "count": 6
+      },
+      {
+        "author": "Psychophysics",
+        "count": 6
+      },
+      {
+        "author": "Yoo",
+        "count": 6
+      },
+      {
+        "author": "Zhang",
+        "count": 6
+      },
+      {
+        "author": "Sims",
+        "count": 6
+      },
+      {
+        "author": "Adler",
+        "count": 5
+      },
+      {
+        "author": "Barack",
+        "count": 5
+      },
+      {
+        "author": "Ryu",
+        "count": 5
+      },
+      {
+        "author": "Wichmann",
+        "count": 5
+      },
+      {
+        "author": "Summerfield",
+        "count": 5
+      },
+      {
+        "author": "Brody",
+        "count": 5
+      },
+      {
+        "author": "Movshon",
+        "count": 4
+      },
+      {
+        "author": "Pouget",
+        "count": 4
+      },
+      {
+        "author": "Pratte",
+        "count": 4
+      },
+      {
+        "author": "Solomon",
+        "count": 4
+      },
+      {
+        "author": "Orbán",
+        "count": 4
+      }
+    ],
+    "research_themes": "Bayesian inference (33), Decision making (32), Visual working memory (23), Bias/systematic errors (21), fMRI (19), Visual perception (18), Neural coding (7), Serial dependence (5)",
+    "writing_style": {
+      "format": "\"논문정리:\" 스타일. 불릿+산문 혼합 (87회). 같은 논문을 여러 날에 걸쳐 Figure 단위로 정독.",
+      "avg_comment_length": "963자",
+      "tone": "\"것 같다\" (110회). \"좀 더\" (23회) — 추가 탐구 의지. \"~와 유사\" (17회) — 논문 간 비교 활발.",
+      "key_expressions": [
+        "것 같다 (110)",
+        "중요한/중요하다 (40) — 전체 최다",
+        "기존의/기존 연구 (31)",
+        "고려 (28)",
+        "궁금하다 (24)",
+        "흥미롭다 (18)",
+        "~와 유사 (17)",
+        "좀 더 (23)"
+      ],
+      "questions": 53,
+      "reading_scope": "같은 논문을 수일에 걸쳐 Figure 단위 분할 정독. 매우 꼼꼼한 sequential reading."
+    },
+    "perspective_analysis": {
+      "reading_approach": "Bayesian observer model 관점 중심 해석. Bias/systematic error에 매우 높은 관심. 한 논문을 수일 정독.",
+      "critical_tendencies": "\"중요하다\" 40회 — 핵심 추출 능력. \"고려\" 28회 — 다양한 변수/조건 체크. 비판보다 이해와 연결에 초점.",
+      "connection_making": "Wei & Lee, Stocker, Bays, Sims 등 Bayesian psychophysics 핵심 저자들 체계적 추적. VWM과 Bayesian inference 교차점 집중."
+    }
+  },
+  "Heeseung Lee": {
+    "total_papers": 96,
+    "date_range": "2024-02-16 ~ 2024-08-19",
+    "recurring_authors": [
+      {
+        "author": "Polania",
+        "count": 11
+      },
+      {
+        "author": "Ruff",
+        "count": 10
+      },
+      {
+        "author": "Dumoulin",
+        "count": 10
+      },
+      {
+        "author": "Harvey",
+        "count": 10
+      },
+      {
+        "author": "Nieder",
+        "count": 8
+      },
+      {
+        "author": "Summerfield",
+        "count": 8
+      },
+      {
+        "author": "Akam",
+        "count": 8
+      },
+      {
+        "author": "Murray",
+        "count": 8
+      },
+      {
+        "author": "Woodford",
+        "count": 5
+      },
+      {
+        "author": "Fracasso",
+        "count": 5
+      },
+      {
+        "author": "Dehaene",
+        "count": 5
+      },
+      {
+        "author": "Schaffner",
+        "count": 4
+      },
+      {
+        "author": "Bao",
+        "count": 4
+      },
+      {
+        "author": "Tobler",
+        "count": 4
+      },
+      {
+        "author": "Hare",
+        "count": 4
+      },
+      {
+        "author": "Yung",
+        "count": 4
+      },
+      {
+        "author": "Verguts",
+        "count": 4
+      },
+      {
+        "author": "Kristensen",
+        "count": 4
+      },
+      {
+        "author": "Almeida",
+        "count": 4
+      },
+      {
+        "author": "Goldberg",
+        "count": 4
+      },
+      {
+        "author": "Samborska",
+        "count": 4
+      },
+      {
+        "author": "Butler",
+        "count": 4
+      },
+      {
+        "author": "Walton",
+        "count": 4
+      },
+      {
+        "author": "Behrens",
+        "count": 4
+      },
+      {
+        "author": "Pettine",
+        "count": 4
+      }
+    ],
+    "research_themes": "fMRI/neuroimaging (21), Numerosity/magnitude (17), Decision making (10), Neural coding (8), Attention (6), Reward/RL (5), Bias (5), Bayesian inference (4)",
+    "writing_style": {
+      "format": "불릿 포인트 중심 (251회). \"읽은 범위:\"(27) + \"읽은 부분:\"(16) 표기. 비교적 간결.",
+      "avg_comment_length": "520자",
+      "tone": "\"것 같다\" (21회) — 다른 연구원 대비 적게 사용. \"중요하다\" (23회)와 \"기존 연구\" (22회)가 주된 프레이밍. 감탄부호 9회.",
+      "key_expressions": [
+        "이 논문은 (7) — 논문 소개 시작 패턴",
+        "중요한/중요하다 (23)",
+        "기존의/기존 연구 (22)",
+        "흥미롭다 (8)",
+        "magnitude에 대한 (10)"
+      ],
+      "questions": 44,
+      "reading_scope": "\"읽은 부분\" 명확 표기. 부분 읽기 후 정리가 주."
+    },
+    "perspective_analysis": {
+      "reading_approach": "Numerosity/magnitude 중심축 focused reading. fMRI 방법론 논문도 다수. Dumoulin, Harvey, Polania, Nieder 집중.",
+      "critical_tendencies": "체계적 정리와 핵심 추출에 초점. 비판적 의문보다 내용 정리 강점.",
+      "connection_making": "Numerosity topographic mapping → magnitude representation → decision making 연구 흐름 추적."
+    }
+  },
+  "SMJ_JYK_BHL_Group": {
+    "Saemi Jung (정세미)": {
+      "total_papers": 24,
+      "date_range": "2025-08-28 ~ 2026-03-25",
+      "recurring_authors": [
+        {
+          "author": "Lee",
+          "count": 6
+        },
+        {
+          "author": "Ahn",
+          "count": 5
+        },
+        {
+          "author": "Bednar",
+          "count": 4
+        },
+        {
+          "author": "Livingstone",
+          "count": 4
+        },
+        {
+          "author": "Wagemans",
+          "count": 4
+        },
+        {
+          "author": "Wilson",
+          "count": 3
+        },
+        {
+          "author": "Yoo",
+          "count": 3
+        },
+        {
+          "author": "Perrinet",
+          "count": 2
+        },
+        {
+          "author": "Chen",
+          "count": 2
+        },
+        {
+          "author": "Yang",
+          "count": 2
+        }
+      ],
+      "expression_patterns": {
+        "것 같다": 24,
+        "흥미롭다/흥미로운": 4,
+        "궁금": 5,
+        "중요": 2,
+        "기존": 5
+      },
+      "avg_comment_length": "570자",
+      "profile": {
+        "themes": "Visual search, eye movements, saliency, natural image processing, pupillometry",
+        "style": "\"것 같다\" (24회), \"궁금\" (5회). 실험 설계와 자신의 연구 연결에 적극적. Lee (S.-H.), Ahn 그룹 논문에 관심.",
+        "perspective": "자신의 visual search 실험과 연결하여 방법론적 시사점 추출. Gaze/pupil 측정의 confound에 관심."
+      }
+    },
+    "Jungye Kim (김정예)": {
+      "total_papers": 13,
+      "date_range": "2025-08-28 ~ 2026-03-25",
+      "recurring_authors": [
+        {
+          "author": "Mattar",
+          "count": 8
+        },
+        {
+          "author": "Benna",
+          "count": 4
+        },
+        {
+          "author": "Zhou",
+          "count": 2
+        },
+        {
+          "author": "Stocker",
+          "count": 2
+        },
+        {
+          "author": "Derdikman",
+          "count": 2
+        }
+      ],
+      "expression_patterns": {
+        "것 같다": 2,
+        "흥미롭다/흥미로운": 6,
+        "궁금": 2,
+        "중요": 3,
+        "기존": 0
+      },
+      "avg_comment_length": "685자",
+      "profile": {
+        "themes": "Transformer models, episodic memory, hippocampal coding, in-context learning, cognitive maps",
+        "style": "\"흥미롭다\" (6회)로 감상 표현 가장 활발. Mattar 그룹 논문 집중 (8회).",
+        "perspective": "AI/ML 모델과 뇌 기능의 연결에 관심. Transformer↔episodic memory, cognitive map 관련 논문 선호."
+      }
+    },
+    "Bohyun Lee (이보현)": {
+      "total_papers": 4,
+      "date_range": "2026-03-04 ~ 2026-03-24",
+      "recurring_authors": [
+        {
+          "author": "Pascucci",
+          "count": 2
+        },
+        {
+          "author": "Bledowski",
+          "count": 2
+        },
+        {
+          "author": "Movshon",
+          "count": 2
+        },
+        {
+          "author": "Curtis",
+          "count": 2
+        }
+      ],
+      "expression_patterns": {
+        "것 같다": 1,
+        "흥미롭다/흥미로운": 0,
+        "궁금": 1,
+        "중요": 1,
+        "기존": 0
+      },
+      "avg_comment_length": "760자",
+      "profile": {
+        "themes": "Serial dependence, visual working memory, feature binding",
+        "style": "4편 모두 serial dependence 관련. Pascucci, Curtis, Movshon 반복. 간결한 정리.",
+        "perspective": "Serial dependence 현상에 집중. Secondary features의 역할과 WM에서의 serial dependence 메커니즘에 관심."
+      }
+    }
+  }
+}
